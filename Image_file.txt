@@ -1,0 +1,44 @@
+{
+	id : 1,
+	name : 'Pizza',
+	price:100,
+	cookTime:'40-50',
+	favorite:false,
+	origins:['Italy'],
+	stars: 4.0,
+	imageUrl: '/assets/images/foods/1.jpeg',
+	tags: ['FastFood','Pizza','Lunch']
+},
+{
+	id : 2,
+	name : 'Pizza-2',
+	price:100,
+	cookTime:'40-50',
+	favorite:false,
+	origins:['Italy'],
+	stars: 4.0,
+	imageUrl: '/assets/images/foods/2.jpeg',
+	tags: ['FastFood','Pizza','Lunch']
+},
+{
+	id : 3,
+	name : 'Pizza-3',
+	price:100,
+	cookTime:'40-50',
+	favorite:false,
+	origins:['Italy'],
+	stars: 4.0,
+	imageUrl: '/assets/images/foods/3.jpeg',
+	tags: ['FastFood','Pizza','Lunch']
+},
+{
+	id : 4,
+	name : 'Pizza-4',
+	price:100,
+	cookTime:'40-50',
+	favorite:false,
+	origins:['Italy'],
+	stars: 4.0,
+	imageUrl: '/assets/images/foods/4.jpeg',
+	tags: ['FastFood','Pizza','Lunch']
+}
